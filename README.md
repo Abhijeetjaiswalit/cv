@@ -10,7 +10,7 @@ Loves Learning new Teachnologies and writing the code for `Hello World!`. A stro
     *May 2018 - present*
     > End-to-end development of mobile and web applications. Prototype, Design, Architecture, Development, DevOps, Publish on the App and Play stores. Open source libraries, boilerplates and more.
 
-- #### Software Associate at [smartData](https://www.smartdatainc.com/)
+- #### Software Associate at [smartData Enterprises Inc.](https://www.smartdatainc.com/)
     *August 2016 - April 2018*
     > Conceptualize, assess, design, develop, test Web and Mobile applications using primarily ReactJs, React Native, AngularJS, VueJs, MySQL, MongoDB, GraphQL, Javascript (using frameworks/libraries such as React, Redux, JQuery, AngularJS, etc) CSS/3, HTML/5, UI frameworks such as Twitter Bootstrap. Tools such as Teamwork, Slack, JIRA, Invision, Asana, Trello, etc. with Agile Methodologies.
 
