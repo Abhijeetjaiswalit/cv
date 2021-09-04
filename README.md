@@ -52,4 +52,4 @@ Cricket &bull; Chess &bull; Movies &bull; Tv Series &bull; Reading
 Email: [abhijeetjaiswalit@gmail.com](mailto:abhijeetjaiswalit@gmail.com)
 
 ## Social
-[LinkedIn](https://www.linkedin.com/in/abhijeet-jaiswal-8b005b20/) &bull; [Twitter](https://twitter.com/its_abhijeet_j) &bull; [Instagram](https://www.instagram.com/abhijeet__jaiswal/)
+[LinkedIn](https://www.linkedin.com/in/abhijeet-jaiswal-8b005b20/) &bull; [Twitter](https://twitter.com/its_abhijeet_j) &bull; [Instagram](https://www.instagram.com/theboywithmismatchedsocks/)
