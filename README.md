@@ -6,8 +6,12 @@
 Loves Learning new Teachnologies and writing the code for `Hello World!`. A strong believer in the fact that programming has no language.
 
 ## Experience
-- #### Full-Stack Developer at [Zaycare](https://zaycare.com/)
-    *May 2018 - present*
+- #### Full-Stack Developer at [Nagarro](https://www.nagarro.com/)
+    *December 2020 - present*
+    > End-to-end development of web applications. Core front end development following React and Micro Front-end.
+
+- #### Full-Stack Developer at [Zay.works (Formerly known as Zaycare)](https://zay.works/)
+    *May 2018 - December 2020*
     > End-to-end development of mobile and web applications. Prototype, Design, Architecture, Development, DevOps, Publish on the App and Play stores. Open source libraries, boilerplates and more.
 
 - #### Software Associate at [smartData Enterprises Inc.](https://www.smartdatainc.com/)
